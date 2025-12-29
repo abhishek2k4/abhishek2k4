@@ -36,9 +36,6 @@
 ---
 
 
-<p align="center">
-  <img alt="LETS CODE GIF" src="assets/lets_code.gif" class="max-w-full mx-auto rounded-md"/>
-</p>
 
 
 <!-- ==========CONNECT WITH ME=========== -->
@@ -102,6 +99,12 @@
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) -->
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
+<p align="center">
+  <img alt="LETS CODE GIF" src="assets/lets_code.gif" class="max-w-full mx-auto rounded-md"/>
+</p>
+
 
 <br>
 
