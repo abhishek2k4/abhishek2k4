@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="Kingdom Hearts characters GIF" src="assets/kh.gif" class="max-w-full mx-auto rounded-md"/>
+  <img alt="Sova Valorant GIF" src="assets/sova_comp.gif" class="max-w-full mx-auto rounded-md"/>
 </p>
 
 <!-- pixleArt -->
