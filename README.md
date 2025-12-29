@@ -3,12 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0084FF&center=true&vCenter=true&width=435&lines=Abhishek+Dewangan;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0084FF&center=true&vCenter=true&width=435&lines=Abhishek+Dewangan;Frontend+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img alt="Kingdom Hearts characters GIF" src="assets/kh.gif" class="max-w-full mx-auto rounded-md"/>
 </p>
+
+<!-- pixleArt -->
+<img src="./assets/mario-hacker-pixel-jeff-2023.gif" alt="" />
 
 <p align="center">
   <a href="https://www.jessicaarroyolebron.com" style="text-decoration:none;">
