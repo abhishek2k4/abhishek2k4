@@ -2,7 +2,9 @@
   <img src="assets/header.png" alt="Header image" class="max-w-full">
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Metamorphous&duration=2500&pause=500&color=D4B52C&center=true&vCenter=true&width=435&lines=Abhishek+Dewangan;Front-End+Developer" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Metamorphous&duration=2500&pause=500&color=D4B52C&center=true&vCenter=true&width=435&lines=Abhishek+Dewangan;Front-End+Developer" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img alt="Kingdom Hearts characters GIF" src="assets/kh.gif" class="max-w-full mx-auto rounded-md"/>
