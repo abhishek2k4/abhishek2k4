@@ -2,16 +2,16 @@
   <img src="assets/header.png" alt="Header image" class="max-w-full">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0084FF&center=true&vCenter=true&width=435&lines=Abhishek+Dewangan;Frontend+Developer" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Metamorphous&duration=2500&pause=500&color=D4B52C&center=true&vCenter=true&width=435&lines=Abhishek+Dewangan;Front-End+Developer" alt="Typing SVG" /></a>
 
 <p align="center">
   <img alt="Kingdom Hearts characters GIF" src="assets/kh.gif" class="max-w-full mx-auto rounded-md"/>
 </p>
 
 <!-- pixleArt -->
-<img src="./assets/mario-hacker-pixel-jeff-2023.gif" alt="" />
+<!-- <img src="./assets/mario-hacker-pixel-jeff-2023.gif" alt="" /> -->
+
+
 
 <p align="center">
   <a href="https://www.jessicaarroyolebron.com" style="text-decoration:none;">
