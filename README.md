@@ -102,8 +102,8 @@
 
 
 <p align="center">
-  <img alt="LETS CODE GIF" src="assets/lets_code.gif" class="max-w-25% mx-auto rounded-md"/>
-  <img alt="CAT TYPING GIF" src="assets//cat_typing.gif" class="max-w-25% mx-auto rounded-md"/>
+  <img src="assets/lets_code.gif" width="25%" />
+  <img src="assets/cat_typing.gif" width="25%" />
 </p>
 
 
