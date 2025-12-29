@@ -102,8 +102,8 @@
 
 
 <p align="center">
-  <img src="assets/lets_code.gif" width="15%" />
-  <img src="assets/cat_typing.gif" width="15%" />
+  <img src="assets/lets_code.gif" width="25%" />
+  <img src="assets/cat_typing.gif" width="25%" />
 </p>
 
 
