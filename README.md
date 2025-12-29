@@ -14,22 +14,22 @@
 <!-- <img src="./assets/mario-hacker-pixel-jeff-2023.gif" alt="" /> -->
 
 
-
-<p align="center">
+<!-- PORTFOLIO LINK -->
+<!-- <p align="center">
   <a href="https://www.jessicaarroyolebron.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/✨%20CHECK%20OUT%20MY%20PORTFOLIO%20✨-083B60?style=for-the-badge&labelColor=083B60" alt="Portfolio">
   </a>
-</p>
+</p> -->
 
 
 ---
 
 <p>👩‍💻 Turning ideas into code, and code into solutions.</p>
 <p>🔧 I build web applications from front to back, ensuring seamless user experiences and efficient backends.</p>
-<p>🎨 With a background in graphic design, Figma is my playground, where I turn ideas into intuitive and visually stunning interfaces.</p>
+<!-- <p>🎨 With a background in graphic design, Figma is my playground, where I turn ideas into intuitive and visually stunning interfaces.</p> -->
 <p>🧠 Fascinated by the world of Artificial Intelligence, exploring how it can enhance web development.</p>
 <p>🌿 Passionate about growth. Always learning.</p>
-<p>🎬 Film enthusiast, 🌱 plant nurturer, and 💡 creative thinker.</p>
+<p>🎮 Gamer, and 💡 creative thinker.</p>
 <p>🚀 Fun fact: When I'm not coding, I'm brainstorming the next big idea!</p>
 
 
@@ -38,7 +38,7 @@
 <p align="center"><strong>Connect with Me</strong></p>
 
 <p align="center">
-  <a href="mailto:jessica.arroyo.lebron@gmail.com" style="text-decoration: none;"><img src="assets/gmail.png" alt="Email" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jessica-arroyo-lebron/" style="text-decoration: none;"><img src="assets/linkedin.png" alt="LinkedIn" height="40"/></a>
+  <a href="mailto:devabhi.work@gmail.com" style="text-decoration: none;"><img src="assets/gmail.png" alt="Email" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abhishek2k4/" style="text-decoration: none;"><img src="assets/linkedin.png" alt="LinkedIn" height="40"/></a>
 </p>
 
 
@@ -54,31 +54,36 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Astro](https://img.shields.io/badge/Astro-0C1222.svg?style=for-the-badge&logo=astro&logoColor=FDFDFE)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+<!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
 
 
 
 ### Backend
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+
+<!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=for-the-badge&logo=symfony&logoColor=white) -->
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Others
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<!-- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) -->
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -86,8 +91,8 @@
 
 ### Design & Creativity
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+<!-- ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) -->
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
