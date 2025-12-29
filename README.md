@@ -103,6 +103,7 @@
 
 <p align="center">
   <img src="assets/lets_code.gif" width="25%" />
+  &nbsp;&nbsp;&nbsp;
   <img src="assets/cat_typing.gif" width="25%" />
 </p>
 
