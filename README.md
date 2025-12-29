@@ -102,7 +102,7 @@
 
 
 <p align="center">
-  <img alt="LETS CODE GIF" src="assets/lets_code.gif" class="max-w-full mx-auto rounded-md"/>
+  <img alt="LETS CODE GIF" src="assets/lets_code.gif" class="max-w-50% mx-auto rounded-md"/>
 </p>
 
 
