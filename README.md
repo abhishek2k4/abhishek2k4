@@ -35,6 +35,13 @@
 
 ---
 
+
+<p align="center">
+  <img alt="LETS CODE GIF" src="assets/lets_code.gif" class="max-w-full mx-auto rounded-md"/>
+</p>
+
+
+<!-- ==========CONNECT WITH ME=========== -->
 <p align="center"><strong>Connect with Me</strong></p>
 
 <p align="center">
