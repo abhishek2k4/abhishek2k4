@@ -42,7 +42,7 @@
 <p align="center"><strong>Connect with Me</strong></p>
 
 <p align="center">
-  <a href="mailto:devabhi.work@gmail.com" style="text-decoration: none;"><img src="assets/gmail.png" alt="Email" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abhishek2k4/" style="text-decoration: none;"><img src="assets/linkedin.png" alt="LinkedIn" height="40"/></a>
+  <a href="mailto:devabhi.work@gmail.com" style="text-decoration: none;"><img src="assets/gmail.png" alt="Email" height="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abhishek-dev19/" style="text-decoration: none;"><img src="assets/linkedin.png" alt="LinkedIn" height="40"/></a>
 </p>
 
 
