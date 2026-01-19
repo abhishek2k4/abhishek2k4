@@ -30,7 +30,6 @@
 <p>🧠 Fascinated by the world of Artificial Intelligence, exploring how it can enhance web development.</p>
 <p>🌿 Passionate about growth. Always learning.</p>
 <p>🎮 Gamer, and 💡 creative thinker.</p>
-<p>🚀 Fun fact: When I'm not coding, I'm brainstorming the next big idea!</p>
 
 
 ---
