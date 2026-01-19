@@ -24,12 +24,12 @@
 
 ---
 
-<p>👩‍💻 Turning ideas into code, and code into solutions.</p>
-<p>🔧 I build web applications from front to back, ensuring seamless user experiences and efficient backends.</p>
-<!-- <p>🎨 With a background in graphic design, Figma is my playground, where I turn ideas into intuitive and visually stunning interfaces.</p> -->
-<p>🧠 Fascinated by the world of Artificial Intelligence, exploring how it can enhance web development.</p>
-<p>🌿 Passionate about growth. Always learning.</p>
-<p>🎮 Gamer, and 💡 creative thinker.</p>
+<p>👨‍💻 I build web stuff.</p>
+<p>🎨 UI matters to me more than it should.</p>
+<p>🤖 AI curiosity, zero obsession.</p>
+<p>🌱 Learning by messing things up.</p>
+<p>🎮 Gaming when the code finally works.</p>
+
 
 
 ---
