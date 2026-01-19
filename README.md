@@ -109,7 +109,7 @@
 
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhishek2k4&theme=dark&border_radius=5.6" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhishek2k4&theme=dark&border_radius=5.6" alt="GitHub Streak" /></a>
 <br>
 
 
